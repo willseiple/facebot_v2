@@ -14,9 +14,11 @@ To run the application:
 
 Will download ~166mb of files from Google Drive on initial startup
 
-To download files manually, use this [link](https://drive.google.com/file/d/1-JI__pcY2IST6mCV9JanOWmeD6h8wYME/view?usp=sharing). For the program to work, place the files in a folder 
+--------------------------------------------------------------------------------
 
-titled '.facebot' in your home directory, e.g. HOMEDIRECTORY/.facebot/data
+Download files manually at (https://drive.google.com/file/d/1-JI__pcY2IST6mCV9JanOWmeD6h8wYME/view?usp=sharing). 
+
+For the program to work, place the files in a folder titled '.facebot' in your home directory, e.g. HOMEDIRECTORY/.facebot/data
 
 --------------------------------------------------------------------------------
 
