@@ -8,11 +8,9 @@ Clone repository and run the following scripts after navigating to its directory
 
 `$ pip install -r requirements.txt`
 
-`$ chmod +x facebot.sh`
-
 To run the application:
 
-`$ bash facebot.sh`
+`$ python3 cli.py`
 
 Will download ~166mb of files from Google Drive on initial startup
 
