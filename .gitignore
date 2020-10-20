@@ -1,0 +1,11 @@
+# directories
+build/
+dist/
+reader/data/
+Reader/__pycache__/
+__pycache__/
+
+# files
+*.pyc
+*.DS_Store
+*.spec
