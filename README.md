@@ -1,4 +1,4 @@
-# facebot for Mac
+# Facebot_v2 for Mac
 
 Requires Python 3, pip installer
 
